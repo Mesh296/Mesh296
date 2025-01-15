@@ -10,17 +10,17 @@ A passionate backend developer from Vietnam
   
 ## 😊 About Me 
 
-- 🔭 I’m currently working on building backend systems for web applications using Node.js, Express.js, and PostgreSQL
+- 🔭 I’m currently working on building backend systems for web applications using **Node.js**, **Express.js**, and **PostgreSQL**
 
 - 🌱 I’m currently learning
-  - Advanced Node.js concepts (e.g., streams, clustering, etc.).
-  - TypeScript to write scalable and type-safe code.
+  - **Advanced Node.js** concepts (e.g., streams, clustering, etc.).
+  - **TypeScript** to write scalable and type-safe code.
 
 - 👯 I’m looking to collaborate on open-source projects, backend system architecture, and API development.
 
-- 🤝 I’m looking for help with improving my skills in microservices, Docker, and cloud platforms (AWS, GCP, or Azure).
+- 🤝 I’m looking for help with improving my skills in **microservices**, **Docker**, and **cloud platforms** (AWS, GCP, or Azure).
 
-- ⚡ Fun fact: I love going gym, playing video games, especially League of Legend.
+- ⚡ Fun fact: I love going to the gym and playing video games, especially League of Legends.
 
 ## 📫 Connect with me
 <p align="left">
@@ -33,7 +33,8 @@ A passionate backend developer from Vietnam
     
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+## 🛠️ Languages and Tools
+
 <p align="left"> 
   <!-- Ngôn ngữ -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
