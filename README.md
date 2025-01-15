@@ -20,7 +20,7 @@ A passionate backend developer from Vietnam
 
 - 🤝 I’m looking for help with improving my skills in **microservices**, **Docker**, and **cloud platforms** (AWS, GCP, or Azure).
 
-- ⚡ Fun fact: I love going to the gym and playing video games, especially League of Legends.
+- ⚡ Fun fact: I love cat, going to the gym and playing video games, especially League of Legends.
 
 ## 📫 Connect with me
 <p align="left">
