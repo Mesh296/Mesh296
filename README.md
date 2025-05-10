@@ -18,7 +18,7 @@ A passionate backend developer from Vietnam
 
 - 👯 I’m looking to collaborate on open-source projects, backend system architecture, and API development.
 
-- 🤝 I’m looking for help with improving my skills in **microservices**, **Docker**, and **cloud platforms** (AWS, GCP, or Azure).
+- 🤝 I’m looking for help with improving my skills in **Microservices**, **Docker**, and **Cloud Platforms** (AWS, GCP, or Azure).
 
 - ⚡ Fun fact: I love cat, going to the gym and playing video games, especially League of Legends.
 
